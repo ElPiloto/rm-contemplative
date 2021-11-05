@@ -12,7 +12,7 @@ Install templates using your favorite [method](https://remarkablewiki.com/tips/t
 
 A weekly lunch and dinner meal planner intended for **landscape mode.**
 
-![Meal Planner](https://github.com/ElPiloto/rm-contemplative/raw/main/meal_planner/meal_planner.png)
+![Meal Planner](https://github.com/ElPiloto/rm-contemplative/raw/main/meal_planner/preview.png)
 
 Example templates.json entry:
 ```
