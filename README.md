@@ -3,6 +3,26 @@
 Custom templates for the remarkable.
 
 
-## Templates Available
+## Templates
 
-- Meal Planner
+Install templates using your favorite [method](https://remarkablewiki.com/tips/templates).
+
+
+### Meal Planner:
+
+A weekly lunch and dinner meal planner intended for **landscape mode.**
+
+![Meal Planner](https://github.com/ElPiloto/rm-contemplative/raw/main/meal_planner/meal_planner.png)
+
+Example templates.json entry:
+```
+{
+  "name": "Meal Planner",
+  "filename": "meal_planner",
+  "iconCode": "\ue9ce",
+  "landscape": true,
+  "categories": [
+    "Life/organize"
+  ]
+}
+```
