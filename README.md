@@ -10,7 +10,7 @@ Install templates using your favorite [method](https://remarkablewiki.com/tips/t
 
 ### Meal Planner:
 
-A weekly lunch and dinner meal planner intended for **landscape mode.**
+A weekly lunch and dinner meal planner intended for **landscape mode.**  Sorry breakfast, you ain't all that.
 
 ![Meal Planner](https://github.com/ElPiloto/rm-contemplative/raw/main/meal_planner/preview.png)
 
